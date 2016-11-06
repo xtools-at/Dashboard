@@ -39,7 +39,7 @@ module.exports = {
         GITHUB_ACCESS_TOKEN: JSON.stringify(process.env.GITHUB_ACCESS_TOKEN),
         MAPS_API_KEY: JSON.stringify(process.env.MAPS_API_KEY),
       }
-    }),
+    })/*,
     new SWPrecacheWebpackPlugin(
       //everything Offline First here!
       {
@@ -59,7 +59,7 @@ module.exports = {
 
         runtimeCaching: [{
           urlPattern: /^https:\/\/fonts\.googleapis\.com/,
-          handler: 'cacheFirst' /*can be: networkFirst,cacheFirst,fastest,cacheOnly,networkOnly*/
+          handler: 'cacheFirst' //can be: networkFirst,cacheFirst,fastest,cacheOnly,networkOnly
         }, {
           urlPattern: /^https:\/\/ipinfo\.io/,
           handler: 'networkFirst'
@@ -76,7 +76,7 @@ module.exports = {
           urlPattern: /^https:\/\/www\.gstatic\.com/,
           handler: 'cacheFirst'
         }]
-      })
+      }) */
   ],
   output: {
     path: __dirname,

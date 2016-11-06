@@ -12,12 +12,6 @@ export var Main = React.createClass({
 	componentDidMount() {
 		var {dispatch} = this.props;
 
-		//load stations/lines data
-		dispatch(actions.getLines());
-		dispatch(actions.getStations());
-
-
-
 		//fetch user location
     	var coords = axios.get('https://ipinfo.io').then((res) => {
     	  //console.log(res.data);

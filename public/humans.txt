@@ -15,6 +15,5 @@
 
 	Node.js, Express.js
     React, Redux
-    Firebase
     CSS3, HTML5
-    jQuery, Normalize.css, Materialize.css, Google Maps API
+    jQuery, Normalize.css, Materialize.css, Google Charts

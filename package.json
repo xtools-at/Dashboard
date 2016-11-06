@@ -1,7 +1,7 @@
 {
-  "name": "Ride-Vienna",
+  "name": "xTools Dashboard",
   "version": "1.0.0",
-  "description": "Vienna Underground Public Transportation app for Udacity Senior Web Developer Nanodegree, using React, Redux, Node.js and Materialize.css",
+  "description": "Corporate Dashboard app for Udacity Senior Web Developer Nanodegree, using React, Redux, Node.js, Google Charts and Materialize.css",
   "main": "index.js",
   "scripts": {
     "test": "NODE_ENV=test karma start",
@@ -11,7 +11,7 @@
   "author": "Martin Kainzbauer",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xtools-at/Ride-Vienna.git"
+    "url": "https://github.com/xtools-at/Dashboard.git"
   },
   "license": "GPL-3.0",
   "dependencies": {
@@ -25,7 +25,6 @@
     "css-loader": "^0.23.1",
     "express": "^4.13.4",
     "firebase": "^3.4.1",
-    "idb": "^1.1.5",
     "jquery": "^2.2.1",
     "materialize-css": "^0.97.7",
     "moment": "^2.12.0",
@@ -34,6 +33,7 @@
     "react": "^0.14.8",
     "react-addons-test-utils": "^0.14.7",
     "react-dom": "^0.14.7",
+    "react-google-charts": "^1.2.1",
     "react-redux": "^4.4.1",
     "react-router": "^2.8.1",
     "redux": "^3.3.1",

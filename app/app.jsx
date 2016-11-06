@@ -8,7 +8,7 @@ import router from 'app/router/';
 var actions = require('actions');
 var store = require('configureStore').configure();
 
-// App css
+// App SCSS
 require('style!css!sass!applicationStyles')
 
 ReactDOM.render(
