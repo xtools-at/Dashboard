@@ -1,0 +1,172 @@
+{
+    "U6": {
+        "firstTrain": [
+            {
+                "from": "Floridsdorf",
+                "time": "04:42"
+            },
+            {
+                "from": "Siebenhirten",
+                "time": "05:08"
+            }
+        ],
+        "lastTrain": [
+            {
+                "from": "Floridsdorf",
+                "time": "00:12"
+            },
+            {
+                "from": "Siebenhirten",
+                "time": "00:08"
+            }
+        ],
+        "intervall": [
+            {
+                "days": "Mo-Fr",
+                "minutes": "3-7"
+            },
+            {
+                "days": "Sa-Su",
+                "minutes": "5-7"
+            }
+        ],
+        "travelDistanceKm": 17.5,
+        "travelTimeMin": 34
+    },
+    "U2": {
+        "firstTrain": [
+            {
+                "from": "Karlsplatz",
+                "time": "05:01"
+            },
+            {
+                "from": "Seestadt",
+                "time": "05:00"
+            }
+        ],
+        "lastTrain": [
+            {
+                "from": "Karlsplatz",
+                "time": "00:30"
+            },
+            {
+                "from": "Seestadt",
+                "time": "23:55"
+            }
+        ],
+        "intervall": [
+            {
+                "days": "Mo-Fr",
+                "minutes": "3-6"
+            },
+            {
+                "days": "Sa-Su",
+                "minutes": "5-8"
+            }
+        ],
+        "travelDistanceKm": 16.7,
+        "travelTimeMin": 31
+    },
+    "U3": {
+        "firstTrain": [
+            {
+                "from": "Simmering",
+                "time": "04:50"
+            },
+            {
+                "from": "Ottakring",
+                "time": "04:54"
+            }
+        ],
+        "lastTrain": [
+            {
+                "from": "Simmering",
+                "time": "00:23"
+            },
+            {
+                "from": "Ottakring",
+                "time": "00:22"
+            }
+        ],
+        "intervall": [
+            {
+                "days": "Mo-Fr",
+                "minutes": "3-7"
+            },
+            {
+                "days": "Sa-Su",
+                "minutes": "7-10"
+            }
+        ],
+        "travelDistanceKm": 13.5,
+        "travelTimeMin": 25
+    },
+    "U4": {
+        "firstTrain": [
+            {
+                "from": "Heiligenstadt",
+                "time": "04:45"
+            },
+            {
+                "from": "Hütteldorf",
+                "time": "04:52"
+            }
+        ],
+        "lastTrain": [
+            {
+                "from": "Heiligenstadt",
+                "time": "00:15"
+            },
+            {
+                "from": "Hütteldorf",
+                "time": "00:10"
+            }
+        ],
+        "intervall": [
+            {
+                "days": "Mo-Fr",
+                "minutes": "3-8"
+            },
+            {
+                "days": "Sa-Su",
+                "minutes": "5-10"
+            }
+        ],
+        "travelDistanceKm": 16.5,
+        "travelTimeMin": 29
+    },
+    "U1": {
+        "firstTrain": [
+            {
+                "from": "Leopoldau",
+                "time": "04:52"
+            },
+            {
+                "from": "Reumannplatz",
+                "time": "05:05"
+            }
+        ],
+        "lastTrain": [
+            {
+                "from": "Leopoldau",
+                "time": "00:06"
+            },
+            {
+                "from": "Reumannplatz",
+                "time": "00:20"
+            }
+        ],
+        "intervall": [
+            {
+                "days": "Mo-Fr",
+                "minutes": "2-8"
+            },
+            {
+                "days": "Sa-Su",
+                "minutes": "5-8"
+            }
+        ],
+        "travelDistanceKm": 14.7,
+        "travelTimeMin": 26
+    }
+}

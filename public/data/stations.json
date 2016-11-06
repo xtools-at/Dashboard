@@ -1,0 +1,1102 @@
+[
+    {
+        "id": 60201858,
+        "name": "Aderklaaer Straße",
+        "changeTo": [
+            "28A"
+        ],
+        "subwayStations": [
+            "U1"
+        ]
+    },
+    {
+        "id": 60200031,
+        "name": "Alte Donau",
+        "changeTo": [
+            "20A"
+        ],
+        "subwayStations": [
+            "U1"
+        ]
+    },
+    {
+        "id": 60200234,
+        "name": "Donauinsel",
+        "changeTo": [],
+        "subwayStations": [
+            "U1"
+        ]
+    },
+    {
+        "id": 60201859,
+        "name": "Großfeldsiedlung",
+        "changeTo": [
+            "28A",
+            "29A"
+        ],
+        "subwayStations": [
+            "U1"
+        ]
+    },
+    {
+        "id": 60200627,
+        "name": "Kagran",
+        "changeTo": [
+            "22A",
+            "25",
+            "26A",
+            "27A",
+            "93A",
+            "94A"
+        ],
+        "subwayStations": [
+            "U1"
+        ]
+    },
+    {
+        "id": 60200633,
+        "name": "Kagraner Platz",
+        "changeTo": [
+            "22A",
+            "24A",
+            "26",
+            "31A"
+        ],
+        "subwayStations": [
+            "U1"
+        ]
+    },
+    {
+        "id": 60200641,
+        "name": "Kaisermühlen-VIC ",
+        "changeTo": [
+            "20A",
+            "92A",
+            "92B"
+        ],
+        "subwayStations": [
+            "U1"
+        ]
+    },
+    {
+        "id": 60200666,
+        "name": "Keplerplatz",
+        "changeTo": [
+            "14A"
+        ],
+        "subwayStations": [
+            "U1"
+        ]
+    },
+    {
+        "id": 60200769,
+        "name": "Leopoldau",
+        "changeTo": [
+            "29A",
+            "32A"
+        ],
+        "subwayStations": [
+            "U1"
+        ]
+    },
+    {
+        "id": 60200916,
+        "name": "Nestroyplatz",
+        "changeTo": [
+            "5A"
+        ],
+        "subwayStations": [
+            "U1"
+        ]
+    },
+    {
+        "id": 60201860,
+        "name": "Rennbahnweg",
+        "changeTo": [
+            "25A",
+            "27A"
+        ],
+        "subwayStations": [
+            "U1"
+        ]
+    },
+    {
+        "id": 60201095,
+        "name": "Reumannplatz",
+        "changeTo": [
+            "14A",
+            "6",
+            "65A",
+            "66A",
+            "67",
+            "67A",
+            "68A",
+            "68B",
+            "70A",
+            "7A"
+        ],
+        "subwayStations": [
+            "U1"
+        ]
+    },
+    {
+        "id": 60201349,
+        "name": "Südtiroler Platz - Hauptbahnhof",
+        "changeTo": [
+            "13A",
+            "18",
+            "69A",
+            "O"
+        ],
+        "subwayStations": [
+            "U1"
+        ]
+    },
+    {
+        "id": 60201366,
+        "name": "Taubstummengasse",
+        "changeTo": [],
+        "subwayStations": [
+            "U1"
+        ]
+    },
+    {
+        "id": 60201433,
+        "name": "Vorgartenstraße",
+        "changeTo": [
+            "11A",
+            "11B"
+        ],
+        "subwayStations": [
+            "U1"
+        ]
+    },
+    {
+        "id": 60201040,
+        "name": "Praterstern",
+        "changeTo": [
+            "5",
+            "5B",
+            "80A",
+            "82A",
+            "O"
+        ],
+        "subwayStations": [
+            "U1",
+            "U2"
+        ]
+    },
+    {
+        "id": 60201198,
+        "name": "Schwedenplatz",
+        "changeTo": [
+            "1",
+            "2",
+            "2A",
+            "Vienna Airport Lines"
+        ],
+        "subwayStations": [
+            "U1",
+            "U4"
+        ]
+    },
+    {
+        "id": 60200910,
+        "name": "Aspern Nord",
+        "changeTo": [
+            "89A",
+            "95A",
+            "99A",
+            "99B"
+        ],
+        "subwayStations": [
+            "U2"
+        ]
+    },
+    {
+        "id": 60200299,
+        "name": "Aspernstraße",
+        "changeTo": [
+            "22A",
+            "26A",
+            "84A",
+            "93A",
+            "97A",
+            "98A"
+        ],
+        "subwayStations": [
+            "U2"
+        ]
+    },
+    {
+        "id": 60200282,
+        "name": "Donaumarina",
+        "changeTo": [
+            "77A",
+            "79A",
+            "79B"
+        ],
+        "subwayStations": [
+            "U2"
+        ]
+    },
+    {
+        "id": 60201278,
+        "name": "Donauspital",
+        "changeTo": [
+            "25",
+            "95A"
+        ],
+        "subwayStations": [
+            "U2"
+        ]
+    },
+    {
+        "id": 60200290,
+        "name": "Donaustadtbrücke",
+        "changeTo": [
+            "92A",
+            "92B",
+            "93A"
+        ],
+        "subwayStations": [
+            "U2"
+        ]
+    },
+    {
+        "id": 60200473,
+        "name": "Hardeggasse",
+        "changeTo": [
+            "25",
+            "92A",
+            "96A"
+        ],
+        "subwayStations": [
+            "U2"
+        ]
+    },
+    {
+        "id": 60200487,
+        "name": "Hausfeldstraße",
+        "changeTo": [
+            "26",
+            "85A",
+            "95B",
+            "97A"
+        ],
+        "subwayStations": [
+            "U2"
+        ]
+    },
+    {
+        "id": 60201893,
+        "name": "Krieau",
+        "changeTo": [
+            "82A"
+        ],
+        "subwayStations": [
+            "U2"
+        ]
+    },
+    {
+        "id": 60201892,
+        "name": "Messe-Prater",
+        "changeTo": [
+            "82A"
+        ],
+        "subwayStations": [
+            "U2"
+        ]
+    },
+    {
+        "id": 60200835,
+        "name": "Museumsquartier",
+        "changeTo": [
+            "57A"
+        ],
+        "subwayStations": [
+            "U2"
+        ]
+    },
+    {
+        "id": 60201072,
+        "name": "Rathaus",
+        "changeTo": [
+            "2"
+        ],
+        "subwayStations": [
+            "U2"
+        ]
+    },
+    {
+        "id": 60201184,
+        "name": "Schottentor",
+        "changeTo": [
+            "1",
+            "1A",
+            "37",
+            "38",
+            "40",
+            "40A",
+            "41",
+            "42",
+            "43",
+            "44",
+            "71",
+            "D"
+        ],
+        "subwayStations": [
+            "U2"
+        ]
+    },
+    {
+        "id": 60200942,
+        "name": "Seestadt",
+        "changeTo": [
+            "84A",
+            "88A",
+            "88B"
+        ],
+        "subwayStations": [
+            "U2"
+        ]
+    },
+    {
+        "id": 60201894,
+        "name": "Stadion",
+        "changeTo": [
+            "11A",
+            "77A"
+        ],
+        "subwayStations": [
+            "U2"
+        ]
+    },
+    {
+        "id": 60201299,
+        "name": "Stadlau",
+        "changeTo": [
+            "86A",
+            "87A",
+            "94A"
+        ],
+        "subwayStations": [
+            "U2"
+        ]
+    },
+    {
+        "id": 60201891,
+        "name": "Taborstraße",
+        "changeTo": [
+            "2",
+            "5B"
+        ],
+        "subwayStations": [
+            "U2"
+        ]
+    },
+    {
+        "id": 60201430,
+        "name": "Volkstheater",
+        "changeTo": [
+            "46",
+            "48A",
+            "49",
+            "71"
+        ],
+        "subwayStations": [
+            "U2",
+            "U3"
+        ]
+    },
+    {
+        "id": 60201182,
+        "name": "Schottenring",
+        "changeTo": [
+            "1",
+            "31",
+            "3A"
+        ],
+        "subwayStations": [
+            "U2",
+            "U4"
+        ]
+    },
+    {
+        "id": 60200657,
+        "name": "Karlsplatz",
+        "changeTo": [
+            "1",
+            "2A",
+            "4A",
+            "59A",
+            "62",
+            "D",
+            "WLB"
+        ],
+        "subwayStations": [
+            "U2",
+            "U4",
+            "U3"
+        ]
+    },
+    {
+        "id": 60200425,
+        "name": "Enkplatz",
+        "changeTo": [
+            "15A",
+            "6",
+            "71",
+            "76A"
+        ],
+        "subwayStations": [
+            "U3"
+        ]
+    },
+    {
+        "id": 60200289,
+        "name": "Erdberg",
+        "changeTo": [],
+        "subwayStations": [
+            "U3"
+        ]
+    },
+    {
+        "id": 60201749,
+        "name": "Gasometer",
+        "changeTo": [
+            "72A"
+        ],
+        "subwayStations": [
+            "U3"
+        ]
+    },
+    {
+        "id": 60200506,
+        "name": "Herrengasse",
+        "changeTo": [
+            "1A",
+            "2A"
+        ],
+        "subwayStations": [
+            "U3"
+        ]
+    },
+    {
+        "id": 60201035,
+        "name": "Hütteldorfer Straße",
+        "changeTo": [
+            "10",
+            "49"
+        ],
+        "subwayStations": [
+            "U3"
+        ]
+    },
+    {
+        "id": 60200606,
+        "name": "Johnstraße",
+        "changeTo": [
+            "10A",
+            "12A"
+        ],
+        "subwayStations": [
+            "U3"
+        ]
+    },
+    {
+        "id": 60200653,
+        "name": "Kardinal-Nagl-Platz",
+        "changeTo": [
+            "77A"
+        ],
+        "subwayStations": [
+            "U3"
+        ]
+    },
+    {
+        "id": 60201317,
+        "name": "Kendlerstraße",
+        "changeTo": [
+            "10"
+        ],
+        "subwayStations": [
+            "U3"
+        ]
+    },
+    {
+        "id": 60200056,
+        "name": "Neubaugasse",
+        "changeTo": [
+            "13A",
+            "14A"
+        ],
+        "subwayStations": [
+            "U3"
+        ]
+    },
+    {
+        "id": 60200981,
+        "name": "Ottakring",
+        "changeTo": [
+            "2",
+            "10",
+            "45A",
+            "46",
+            "46A",
+            "46B",
+            "48A"
+        ],
+        "subwayStations": [
+            "U3"
+        ]
+    },
+    {
+        "id": 60201104,
+        "name": "Rochusgasse",
+        "changeTo": [
+            "4A",
+            "74A"
+        ],
+        "subwayStations": [
+            "U3"
+        ]
+    },
+    {
+        "id": 60201199,
+        "name": "Schlachthausgasse",
+        "changeTo": [
+            "18",
+            "77A",
+            "80A"
+        ],
+        "subwayStations": [
+            "U3"
+        ]
+    },
+    {
+        "id": 60201200,
+        "name": "Schweglerstraße",
+        "changeTo": [
+            "12A",
+            "9",
+            "49"
+        ],
+        "subwayStations": [
+            "U3"
+        ]
+    },
+    {
+        "id": 60201260,
+        "name": "Simmering",
+        "changeTo": [
+            "6",
+            "69A",
+            "71",
+            "72A",
+            "73A"
+        ],
+        "subwayStations": [
+            "U3"
+        ]
+    },
+    {
+        "id": 60200245,
+        "name": "Stubentor",
+        "changeTo": [
+            "2",
+            "3A"
+        ],
+        "subwayStations": [
+            "U3"
+        ]
+    },
+    {
+        "id": 60201530,
+        "name": "Zieglergasse",
+        "changeTo": [],
+        "subwayStations": [
+            "U3"
+        ]
+    },
+    {
+        "id": 60200399,
+        "name": "Zippererstraße",
+        "changeTo": [
+            "71"
+        ],
+        "subwayStations": [
+            "U3"
+        ]
+    },
+    {
+        "id": 60201320,
+        "name": "Stephansplatz",
+        "changeTo": [
+            "1A",
+            "2A",
+            "3A"
+        ],
+        "subwayStations": [
+            "U3",
+            "U1"
+        ]
+    },
+    {
+        "id": 60200161,
+        "name": "Braunschweiggasse",
+        "changeTo": [],
+        "subwayStations": [
+            "U4"
+        ]
+    },
+    {
+        "id": 60200357,
+        "name": "Friedensbrücke",
+        "changeTo": [
+            "5",
+            "33"
+        ],
+        "subwayStations": [
+            "U4"
+        ]
+    },
+    {
+        "id": 60200491,
+        "name": "Heiligenstadt ",
+        "changeTo": [
+            "10A",
+            "11A",
+            "38A",
+            "39A",
+            "5B",
+            "D"
+        ],
+        "subwayStations": [
+            "U4"
+        ]
+    },
+    {
+        "id": 60200520,
+        "name": "Hietzing",
+        "changeTo": [
+            "10",
+            "51A",
+            "56A",
+            "56B",
+            "58",
+            "58A",
+            "60 "
+        ],
+        "subwayStations": [
+            "U4"
+        ]
+    },
+    {
+        "id": 60200560,
+        "name": "Hütteldorf",
+        "changeTo": [
+            "43B",
+            "47B",
+            "49A",
+            "50A",
+            "50B",
+            "52A",
+            "52B",
+            "53A"
+        ],
+        "subwayStations": [
+            "U4"
+        ]
+    },
+    {
+        "id": 60200670,
+        "name": "Kettenbrückengasse",
+        "changeTo": [],
+        "subwayStations": [
+            "U4"
+        ]
+    },
+    {
+        "id": 60200827,
+        "name": "Margaretengürtel",
+        "changeTo": [
+            "6",
+            "18"
+        ],
+        "subwayStations": [
+            "U4"
+        ]
+    },
+    {
+        "id": 60200863,
+        "name": "Meidling Hauptstraße",
+        "changeTo": [
+            "10A",
+            "15A",
+            "63A",
+            "9A"
+        ],
+        "subwayStations": [
+            "U4"
+        ]
+    },
+    {
+        "id": 60200956,
+        "name": "Ober St. Veit",
+        "changeTo": [
+            "54A",
+            "54B"
+        ],
+        "subwayStations": [
+            "U4"
+        ]
+    },
+    {
+        "id": 60201018,
+        "name": "Pilgramgasse",
+        "changeTo": [
+            "12A",
+            "13A",
+            "14A"
+        ],
+        "subwayStations": [
+            "U4"
+        ]
+    },
+    {
+        "id": 60201124,
+        "name": "Roßauer Lände",
+        "changeTo": [],
+        "subwayStations": [
+            "U4"
+        ]
+    },
+    {
+        "id": 60201211,
+        "name": "Schönbrunn ",
+        "changeTo": [
+            "10A"
+        ],
+        "subwayStations": [
+            "U4"
+        ]
+    },
+    {
+        "id": 60201305,
+        "name": "Stadtpark",
+        "changeTo": [],
+        "subwayStations": [
+            "U4"
+        ]
+    },
+    {
+        "id": 60201404,
+        "name": "Unter St. Veit",
+        "changeTo": [
+            "47A"
+        ],
+        "subwayStations": [
+            "U4"
+        ]
+    },
+    {
+        "id": 60200743,
+        "name": "Wien Mitte - Landstraße",
+        "changeTo": [
+            "74A",
+            "O",
+            "City Airport Train"
+        ],
+        "subwayStations": [
+            "U4",
+            "U3"
+        ]
+    },
+    {
+        "id": 60200820,
+        "name": "Längenfeldgasse",
+        "changeTo": [
+            "12A"
+        ],
+        "subwayStations": [
+            "U4",
+            "U6"
+        ]
+    },
+    {
+        "id": 60200027,
+        "name": "Alser Straße",
+        "changeTo": [
+            "43",
+            "44"
+        ],
+        "subwayStations": [
+            "U6"
+        ]
+    },
+    {
+        "id": 60201499,
+        "name": "Alterlaa",
+        "changeTo": [
+            "60A",
+            "64A",
+            "66A"
+        ],
+        "subwayStations": [
+            "U6"
+        ]
+    },
+    {
+        "id": 60200048,
+        "name": "Am Schöpfwerk",
+        "changeTo": [
+            "16A"
+        ],
+        "subwayStations": [
+            "U6"
+        ]
+    },
+    {
+        "id": 60201015,
+        "name": "Meidling",
+        "changeTo": [
+            "15A",
+            "59A",
+            "62",
+            "62A",
+            "7A",
+            "7B",
+            "8A",
+            "9A",
+            "WLB",
+            "Vienna Airport Lines"
+        ],
+        "subwayStations": [
+            "U6"
+        ]
+    },
+    {
+        "id": 60200188,
+        "name": "Burggasse - Stadthalle",
+        "changeTo": [
+            "6",
+            "18",
+            "9",
+            "49",
+            "48A"
+        ],
+        "subwayStations": [
+            "U6"
+        ]
+    },
+    {
+        "id": 60200500,
+        "name": "Dresdner Straße",
+        "changeTo": [
+            "2",
+            "5A",
+            "37A"
+        ],
+        "subwayStations": [
+            "U6"
+        ]
+    },
+    {
+        "id": 60200285,
+        "name": "Erlaaer Straße",
+        "changeTo": [],
+        "subwayStations": [
+            "U6"
+        ]
+    },
+    {
+        "id": 60200334,
+        "name": "Floridsdorf",
+        "changeTo": [
+            "25",
+            "26",
+            "30",
+            "31",
+            "28A",
+            "29A",
+            "33A",
+            "33B"
+        ],
+        "subwayStations": [
+            "U6"
+        ]
+    },
+    {
+        "id": 60200436,
+        "name": "Gumpendorfer Straße ",
+        "changeTo": [
+            "6",
+            "18",
+            "57A"
+        ],
+        "subwayStations": [
+            "U6"
+        ]
+    },
+    {
+        "id": 60201705,
+        "name": "Handelskai",
+        "changeTo": [
+            "5A",
+            "11A",
+            "11B"
+        ],
+        "subwayStations": [
+            "U6"
+        ]
+    },
+    {
+        "id": 60201667,
+        "name": "Jägerstraße",
+        "changeTo": [
+            "31",
+            "33",
+            "39A"
+        ],
+        "subwayStations": [
+            "U6"
+        ]
+    },
+    {
+        "id": 60200615,
+        "name": "Josefstädter Straße",
+        "changeTo": [
+            "2",
+            "33"
+        ],
+        "subwayStations": [
+            "U6"
+        ]
+    },
+    {
+        "id": 60200874,
+        "name": "Michelbeuern AKH",
+        "changeTo": [
+            "42"
+        ],
+        "subwayStations": [
+            "U6"
+        ]
+    },
+    {
+        "id": 60201668,
+        "name": "Neue Donau",
+        "changeTo": [
+            "20B"
+        ],
+        "subwayStations": [
+            "U6"
+        ]
+    },
+    {
+        "id": 60200937,
+        "name": "Niederhofstraße",
+        "changeTo": [
+            "10A",
+            "63A"
+        ],
+        "subwayStations": [
+            "U6"
+        ]
+    },
+    {
+        "id": 60200950,
+        "name": "Nußdorfer Straße ",
+        "changeTo": [
+            "37",
+            "38",
+            "35A",
+            "37A"
+        ],
+        "subwayStations": [
+            "U6"
+        ]
+    },
+    {
+        "id": 60201007,
+        "name": "Perfektastraße",
+        "changeTo": [
+            "61A",
+            "64A"
+        ],
+        "subwayStations": [
+            "U6"
+        ]
+    },
+    {
+        "id": 60201235,
+        "name": "Siebenhirten ",
+        "changeTo": [],
+        "subwayStations": [
+            "U6"
+        ]
+    },
+    {
+        "id": 60201372,
+        "name": "Thaliastraße",
+        "changeTo": [
+            "46",
+            "48A"
+        ],
+        "subwayStations": [
+            "U6"
+        ]
+    },
+    {
+        "id": 60201394,
+        "name": "Tscherttegasse",
+        "changeTo": [],
+        "subwayStations": [
+            "U6"
+        ]
+    },
+    {
+        "id": 60201510,
+        "name": "Währinger Straße - Volksoper",
+        "changeTo": [
+            "40",
+            "41",
+            "42",
+            "40A"
+        ],
+        "subwayStations": [
+            "U6"
+        ]
+    },
+    {
+        "id": 60201468,
+        "name": "Westbahnhof",
+        "changeTo": [
+            "5",
+            "6",
+            "9",
+            "18",
+            "49",
+            "52",
+            "58"
+        ],
+        "subwayStations": [
+            "U6",
+            "U3"
+        ]
+    },
+    {
+        "id": 60201062,
+        "name": "Spittelau",
+        "changeTo": [
+            "35A",
+            "37A",
+            "D"
+        ],
+        "subwayStations": [
+            "U6",
+            "U4"
+        ]
+    }
+]
